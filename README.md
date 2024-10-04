@@ -4,6 +4,7 @@ find all cisco projects here
 
 | Name                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+|CISCO Intrusion detection -Motion detector, Siren and CCTV IOT system|  <a href="https://github.com/kelubia/Smart-home-IOT-design-simulation-CISCO"> CISCO Intrusion detection -Motion detector, Siren and CCTV IOT system</a>|
 |Smart home IOT design simulation CISCO|  <a href="https://github.com/kelubia/Smart-home-IOT-design-simulation-CISCO"> Smart home IOT design simulation CISCO</a>|
 |ASA FiREWALL CONFIGURATION|  <a href="https://github.com/kelubia/ASA-Firewall-Basic-configuration"> ASA FiREWALL CONFIGURATION</a>|
 |CISCO-SIMPLE-OFFICE-NETWORK-CONFIGURATION|  <a href="https://github.com/kelubia/CISCO-SIMPLE-OFFICE-NETWORK-CONFIGURATION?tab=readme-ov-file#cisco-simple-office-network-configuration)"> CISCO-SIMPLE-OFFICE-NETWORK-CONFIGURATION</a>|
